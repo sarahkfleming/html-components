@@ -1,0 +1,30 @@
+html {
+    background-color: rgba(142, 158, 245, 0.5);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    border-radius: 30%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: left;
+}
+
+span {
+    display: inline-block;
+    padding: 3px 10px 4px 8px;
+    background-color: #1D4E70;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
